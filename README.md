@@ -1,2 +1,2 @@
 # growmod
-Fitting and validating nonlinear growth models in Stan
+The `growmod` package is now the `growmodr` package. Head to the new [repo](https://github.com/jdyen/growmodr) to see the latest version of `growmodr`.
